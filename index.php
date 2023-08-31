@@ -85,7 +85,7 @@
         echo "<li>"." - "."La contraseña es: ".$row['Contrasena']."</li>"."<br>";
         echo "<li>"." - "."Los comentarios son: ".$row['Comentario']."</li>"."<br>";
         echo "<li>"." - "."La ciudad es: ".$row['Ciudad']."</li>"."<br>";
-        echo "<li>"." - "."¿Me interesa o no el contrato?: ".$row['Intereses']."</li>"."<br>";
+        echo "<li>"." - "."¿Me interesa o no?: ".$row['Intereses']."</li>"."<br>";
         echo "<hr>"."<h2>"."Siguiente Formulario"."</h2>"."<br>"."<br>";
     }
     echo "</ul>";
